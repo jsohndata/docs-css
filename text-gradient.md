@@ -5,10 +5,8 @@ h1 {
   background-image: linear-gradient(72deg, #ed2af1, #e0c705);
   background-clip: text;
   -webkit-text-fill-color: transparent;
-  -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   -moz-background-clip: text;
-  -webkit-text-fill-color: transparent; 
   -moz-text-fill-color: transparent;
 }
 ```
