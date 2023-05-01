@@ -1,5 +1,5 @@
 # Adding Gradient to Text
-![screenshot](./images/readme.webp)
+![screenshot](./images/text-gradient.webp)
 ```
 h1 {
   background-image: linear-gradient(72deg, #ed2af1, #e0c705);
@@ -12,7 +12,7 @@ h1 {
 ```
 <br>
 
-## Sample
+## Code Sample
 * [CodePen.io](https://codepen.io/jsohndata/pen/wvyxoYd)
 
 <br>
