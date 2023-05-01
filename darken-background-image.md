@@ -1,6 +1,8 @@
 ## Darken Background Image while keeping Text Bright
-
 ![screen shot](./images/darken-bg.webp)
+This is achieved using `background-blend-mode`.
+
+<br>
 
 ### CSS (simplified)
 ```

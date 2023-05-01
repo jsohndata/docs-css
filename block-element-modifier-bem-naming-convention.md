@@ -1,5 +1,4 @@
 # CSS: Class Naming convention based on Block Element Modifer (BEM)
-
 * Block: Standalone component on a page.
 * Element: Part of that component. 
 * Modifier: Variation or state of the component or element. 
