@@ -27,7 +27,7 @@ This is achieved using `background-blend-mode`.
 ```
 
 ### Live Sample
-[jsohndata.github.io/neo-tokyo-portfolio](https://jsohndata.github.io/neo-tokyo-portfolio)
+[jsohndata.com](https://jsohndata.com)
 
 <br>
 
