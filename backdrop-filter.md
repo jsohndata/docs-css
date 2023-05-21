@@ -45,8 +45,8 @@ backdrop-filter: saturate(80%);
 
 <br>
 
-## Sample 
-[jsohndata.github.io/things-i-collect](https://jsohndata.github.io/things-i-collect)
+## Site 
+* 👉 [jsohndata.github.io/synthational](https://jsohndata.github.io/synthational/)
 
 <br>
 
