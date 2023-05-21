@@ -26,8 +26,8 @@ This is achieved using `background-blend-mode`.
 </div>
 ```
 
-### Live Sample
-[jsohndata.com](https://jsohndata.com)
+### Site
+* 👉 [jsohndata.com](https://jsohndata.com)
 
 <br>
 
